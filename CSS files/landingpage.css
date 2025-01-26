@@ -220,7 +220,7 @@ input, textarea {
   margin: 1% 2%;
   padding: 1% 1%; 
   border: 0;
-  width: calc(100% - 4%); 
+  width: 98%;
   box-sizing: border-box; 
 }
 
@@ -369,6 +369,15 @@ input[type="submit"] {
   .img1{
     height: auto;
   }
+  .input-group input{
+    padding: 2% 2%;
+  }
+  .input-group{
+    margin: 6px;
+  }
+  input ,#message{
+    padding:0% 0% 0% 1%;
+  }
   input[type="submit"] {
     font-size: 1rem;
     width: 50%;
@@ -456,6 +465,9 @@ input[type="submit"] {
   }
   .input-group{
     margin: 1%;
+  }
+  .input-group input{
+    padding: 3% 3%;
   }
   .img1{
     height: auto;
