@@ -20,6 +20,15 @@ Explore the culinary world with us as we share our passion for cooking, deliciou
 ### Contact Us:
 ![image](https://github.com/amri-tah/burntbrotta.github.io/assets/111682039/0d358039-a4c8-410b-a3cf-f8e90a6c2468)
 
+## Mobile View
+### Home Page:
+<img src="https://github.com/user-attachments/assets/9edfdbcf-1fc7-4885-9893-a58aae53f56d" width="320" alt="Home Page" />
+
+### Catalog Page:
+<img src="https://github.com/user-attachments/assets/4e1d0626-dd5d-44a0-830c-0db032daffc2" width="320" alt="Catalog Page" />
+
+### Recipe Page:
+<img src="https://github.com/user-attachments/assets/5d2e8489-911e-49d5-9355-8e172eda79a7" width="320" alt="Recipe Page" />
 
 Find this website on [BurntBrotta](https://amri-tah.github.io/burntbrotta.github.io/)
 Behance: [Behance](https://www.behance.net/gallery/176302693/BurntBrotta-Website)
