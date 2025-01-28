@@ -113,7 +113,7 @@ footer {
     cursor: pointer;
     margin: 0;
     padding: 0;
-    height: 8.125rem;
+    height: 7rem;
 }
 
 
@@ -420,14 +420,14 @@ footer h2 {
     font-size: 1.5em;
     }
     .footer {
-    padding: 5% 0%;
+    padding:1% 0%;
     gap: 5%;
-    height: 8vh;
     width: 100%;    
 
     }
     footer {
     position: relative;
+    height: 6rem;
     }
     footer h2 {
         font-size: 0.8125em;
